@@ -1,0 +1,6 @@
+{
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.background": "#3f90ec",  // Customize this color for better visibility
+        "editorIndentGuide.activeBackground": "#3f90ec"  // Customize this for the active guide
+    }
+}
